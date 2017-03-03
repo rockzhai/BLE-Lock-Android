@@ -14,7 +14,7 @@
 软件运行截图：
 
 <img src="https://github.com/rockzhai/BLE-Lock/blob/master/Screenshot/login.png" width = "360" height = "590" alt="login" align=center />
-<img src="https://github.com/rockzhai/BLE-Lock/blob/master/Screenshot/main.png" width = "360" height = "590" alt="login" align=center />
+<img src="https://github.com/rockzhai/BLE-Lock/blob/master/Screenshot/main.jpeg" width = "360" height = "590" alt="login" align=center />
 <img src="https://github.com/rockzhai/BLE-Lock/blob/master/Screenshot/record.png" width = "360" height = "590" alt="login" align=center />
 <img src="https://github.com/rockzhai/BLE-Lock/blob/master/Screenshot/usermannger.png" width = "360" height = "590" alt="login" align=center />
 <img src="https://github.com/rockzhai/BLE-Lock/blob/master/Screenshot/about.png" width = "360" height = "590" alt="login" align=center />
