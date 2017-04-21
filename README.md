@@ -7,7 +7,10 @@
 
 该开源内容仅为Android客户端，调试方式时使用[串口调试助手（丁丁）](http://www.cr173.com/soft/43649.html)，该串口调试助手可以自定义存储命令，实践中调试比较方便。
 
-相关技术博文请参考个人博客：http://zhaidy.cc
+相关技术博文请参考个人博客：http://zhaidongyan.cn/2017/02/24/android-ble-lock/
+
+另外关于在 Android 6.0 下开启定位权限问题请参考：http://blog.csdn.net/kjunchen/article/details/52769915
+因为测试时候并没有用到类似问题，在此注明，感谢稀土掘金用户[你画的彩虹](https://juejin.im/user/57d616a8d20309002c1b80b8) 提出的问题。
 
 欢迎提问，如果喜欢，期待您的star
 
