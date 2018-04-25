@@ -14,7 +14,7 @@
 
 该串口调试助手可以自定义存储命令，实践中调试比较方便。
 
-相关技术博文请参考个人博客：http://zhaidongyan.cn/2017/02/24/android-ble-lock/
+相关技术博文请参考个人博客：http://zhaidongyan.cn/android-ble-lock/
 
 关于在 Android 6.0 下开启定位权限问题请参考：http://blog.csdn.net/kjunchen/article/details/52769915
 感谢稀土掘金用户[你画的彩虹](https://juejin.im/user/57d616a8d20309002c1b80b8) 提出的问题。
